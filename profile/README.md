@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lumoxia.art/assets/mark.svg" alt="Lumoxia" width="96" height="96" />
+<img src="./mark.png" alt="Lumoxia" width="96" height="96" />
 
 # LUMOXIA
 
