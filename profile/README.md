@@ -4,46 +4,46 @@
 
 # LUMOXIA
 
-### Reviving ancient games through art and software
+### Ancient games, rebuilt as apps
 
 [![Website](https://img.shields.io/badge/lumoxia.art-c9922f?style=for-the-badge&logo=safari&logoColor=white)](https://lumoxia.art)
-[![App Store](https://img.shields.io/badge/App%20Store-The%20Royal%20Game%20of%20Ur-2a4a86?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/)
+![The Royal Game of Ur](https://img.shields.io/badge/The%20Royal%20Game%20of%20Ur-coming%20soon-2a4a86?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
 ---
 
-We are an indie software studio and advocates for the **AI-powered product development lifecycle**. We have a passion for reviving ancient games through art and software — bringing thousands of years of play back to life, one carefully crafted app at a time.
+Lumoxia is an indie studio. The oldest games ever played are still good to play, and good art and software can bring them to new players.
 
-## 🎲 The Royal Game of Ur
+## The Royal Game of Ur
 
-Our first app brings one of the **oldest board games known to humanity** — played in Mesopotamia some 4,500 years ago — to life with an artistic twist and simple, elegant gameplay.
+One of the oldest known board games, played in Mesopotamia about 4,500 years ago. This version has new art and simple rules.
 
-- 🏛️ Hand-crafted visuals inspired by the original British Museum board
-- 👥 Play against a friend or a thoughtful opponent
-- ⚡ Fast to learn, satisfying to master
+- Eleven board designs, including one based on the original board in the British Museum
+- Play a friend on one device, or play the computer
+- Nine languages. Works offline, with no account, no ads and no tracking
 
-> Available now on the **App Store** for iPhone and iPad.
+> Coming soon to iPhone and iPad. It is not in the App Store yet.
 
-## 🧭 What we believe
+## Approach
 
 | | |
 |---|---|
-| **Ancient, reimagined** | We study games that are thousands of years old and rebuild them with a contemporary artistic voice — faithful to their roots, effortless to play today. |
-| **Craft over clutter** | Simple gameplay, deliberate visuals, no noise. Every element earns its place, from the board markings to the sound of the dice. |
-| **AI-native by design** | We build in the open with an AI-powered product development lifecycle, shipping polished software faster without sacrificing taste. |
+| **Old games, new art** | Games that are thousands of years old, rebuilt with new art. The rules stay true to the original and the app is easy to pick up. |
+| **Nothing extra** | Simple rules, clear visuals and no ads. |
+| **Built with AI tools** | AI tools are part of how Lumoxia is made, from design to code. |
 
-## 👋 Our founder
+## About
 
-**Giorgio Orsi** — a computer scientist and AI researcher formerly at the Universities of Oxford and Birmingham, former Head of AI at Meltwater, and now VP of Engineering at ComplyAdvantage. Giorgio founded Lumoxia to pursue a lasting passion: reviving ancient games through art and software.
+Giorgio Orsi is a computer scientist who has spent his career working on AI. He makes Lumoxia on his own, with AI companions and four cats, out of a long interest in ancient games.
 
-## 🔗 Find us
+## Links
 
-- 🌐 Website — **[lumoxia.art](https://lumoxia.art)**
-- 💻 GitHub — **[github.com/Lumoxia](https://github.com/Lumoxia)**
+- Website: **[lumoxia.art](https://lumoxia.art)**
+- GitHub: **[github.com/Lumoxia](https://github.com/Lumoxia)**
 
 <div align="center">
 
-<sub>© Lumoxia · Reviving ancient games through art and software</sub>
+<sub>&copy; Lumoxia</sub>
 
 </div>
