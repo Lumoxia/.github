@@ -7,7 +7,7 @@
 ### Ancient games, rebuilt as apps
 
 [![Website](https://img.shields.io/badge/lumoxia.art-c9922f?style=for-the-badge&logo=safari&logoColor=white)](https://lumoxia.art)
-![The Royal Game of Ur](https://img.shields.io/badge/The%20Royal%20Game%20of%20Ur-coming%20soon-2a4a86?style=for-the-badge&logo=apple&logoColor=white)
+![The Royal Game of Ur](https://img.shields.io/badge/The%20Royal%20Game%20of%20Ur-coming%20soon-5a3b22?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
