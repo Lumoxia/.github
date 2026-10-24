@@ -40,6 +40,7 @@ Giorgio Orsi is a computer scientist who has spent his career working on AI. He 
 ## Links
 
 - Website: **[lumoxia.art](https://lumoxia.art)**
+- Patreon: **[patreon.com/lumoxia_art](https://www.patreon.com/lumoxia_art)**
 - GitHub: **[github.com/Lumoxia](https://github.com/Lumoxia)**
 
 <div align="center">
